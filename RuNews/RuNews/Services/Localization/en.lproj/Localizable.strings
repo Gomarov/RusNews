@@ -1,0 +1,9 @@
+"settings" = "Settings";
+"feed" = "Feed";
+"sources" = "Sources";
+"update_period" = "Update period";
+"no_sources" = "Please select at least one source in settings";
+"cached_news" = "No connection! \nShowing cached news";
+"new_news" = "* New";
+"old_news" = "Viewed";
+"read_more" = "read more";
