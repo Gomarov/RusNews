@@ -1,0 +1,2 @@
+# RusNews
+News aggregator
